@@ -1,9 +1,9 @@
 # rsschool-cv
 
 # Mariia Koval
-********
+
 ## Junior Frontend Developer
-********
+
 ### Contact information:
 
 * _Phone_: +38 0936331194
